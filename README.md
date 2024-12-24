@@ -12,7 +12,7 @@ I'm a passionate software developer with a love for technology and problem-solvi
 - ⚡ Fun fact: [Something Interesting About You]
 
 ## Skills
-- **Languages:** [List of Languages]
+- **Languages:** [Java]
 - **Frameworks:** [List of Frameworks]
 - **Tools:** [List of Tools]
 - **Other:** [Other Relevant Skills]
