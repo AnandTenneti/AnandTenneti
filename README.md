@@ -9,8 +9,8 @@
 ---
 
 ## 🚀 Tech Stack
-**Languages:** Java, TypeScript, Python, SQL  
-**Automation:** Selenium, Playwright, Cypress, TestNG, Cucumber  
+**Languages:** Java, TypeScript, Python  
+**Automation:** Selenium, Playwright, Cypress, TestNG, Cucumber, Robot Framework  
 **APIs:** REST Assured, Postman  
 **DevOps:** Jenkins, GitHub Actions, Docker, AWS  
 **Performance:** JMeter, ZAP  
