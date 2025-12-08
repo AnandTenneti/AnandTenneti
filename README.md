@@ -1,29 +1,51 @@
-# Hi, I'm Anand 👋  
-### Associate Manager – QA | SDET | Automation | Agile Delivery
+# 👋 Hi, I'm Anand Kiran T
 
-🔹 18+ years in QA and Test Automation  
-🔹 Expertise in Selenium, Playwright, Cypress, REST Assured  
-🔹 Experience working with enterprise clients including Google  
-🔹 Passionate about building reliable automation frameworks & scalable QA practices  
+### **Associate Manager – QA | SDET | Test Automation | Agile Delivery**
+
+🚀 **Quality Engineering Leader with 18+ years of experience**, including a decade in automation.  
+I specialize in building scalable automation solutions, improving QA maturity, and delivering high-quality software for enterprise clients — including **Google**.
 
 ---
 
-## 🚀 Tech Stack
-**Languages:** Java, TypeScript, Python  
-**Automation:** Selenium, Playwright, Cypress, TestNG, Cucumber, Robot Framework  
-**APIs:** REST Assured, Postman  
-**DevOps:** Jenkins, GitHub Actions, Docker, AWS  
-**Performance:** JMeter, ZAP  
+## ⚡ About Me
+- 🔹 18+ years in QA, 10+ years in Automation  
+- 🔹 Strong expertise in **Selenium, Playwright, Cypress, REST Assured**  
+- 🔹 Experienced in architecting automation frameworks from scratch  
+- 🔹 Passionate about **E2E automation, CI/CD integration, and quality engineering**  
+
+---
+
+## 🧰 Tech Stack
+
+### **Languages**
+- Java | TypeScript | Python  
+
+### **Automation Tools**
+- Selenium | Playwright | Cypress  
+- TestNG | Cucumber | Robot Framework  
+
+### **API Testing**
+- REST Assured | Postman  
+
+### **DevOps / Cloud**
+- Jenkins | GitHub Actions | Docker | AWS  
+
 
 ---
 
 ## 📌 Featured Projects
-- 🔧 **Automation Framework (Java + Selenium + TestNG)**  
-- 🌐 **Playwright E2E Suite (TypeScript)**  
-- 🚀 **API Automation using REST Assured**
+
+🔧 **Java + TestNG + Selenium Automation Framework**  
+🌐 **Playwright (TypeScript) E2E Test Suite**  
+🚀 **REST Assured API Automation Framework**  
 
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: tenneti.anand@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/anandkirant  
+
+📧 **Email:** tenneti.anand@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/anandkirant  
+
+---
+
+⭐ *If you find my repositories helpful, feel free to star them!*  
