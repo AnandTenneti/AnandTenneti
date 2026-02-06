@@ -9,7 +9,7 @@ I specialize in building scalable automation solutions, improving QA maturity, a
 
 ## ⚡ About Me
 - 🔹 18+ years in QA, 10+ years in Automation  
-- 🔹 Strong expertise in **Selenium, Playwright, Cypress, REST Assured**  
+- 🔹 Strong expertise in **Selenium, Playwright, REST Assured**  
 - 🔹 Experienced in architecting automation frameworks from scratch  
 - 🔹 Passionate about **E2E automation, CI/CD integration, and quality engineering**  
 
