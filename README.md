@@ -21,7 +21,7 @@ I specialize in building scalable automation solutions, improving QA maturity, a
 - Java | TypeScript | Python  
 
 ### **Automation Tools**
-- Selenium | Playwright | Playwright  
+- Selenium | Playwright  
 - TestNG | Cucumber | Robot Framework  
 
 ### **API Testing**
