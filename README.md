@@ -60,7 +60,9 @@ I specialize in building scalable automation solutions, improving QA maturity, a
 📫 Connect with me:
 
 **LinkedIn:** https://linkedin.com/in/anandkirant 
+
 **GitHub:** https://github.com/AnandTenneti/
+
 **Email:** tenneti.anand@gmail.com
 
 ---
