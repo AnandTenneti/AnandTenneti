@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Anand Kiran T
 
-### **Associate Manager – QA | SDET | Test Automation | Agile Delivery**
+<!--### **Associate Manager – QA | SDET | Test Automation | Agile Delivery**-->
+**🧪 Senior Automation Engineer | 18+ Years in QA | 10+ Years in Test Automation | Bengaluru, India**
 
 🚀 **Quality Engineering Leader with 18+ years of experience**, including a decade in automation.  
 I specialize in building scalable automation solutions, improving QA maturity, and delivering high-quality software for enterprise clients — including **Google**.
