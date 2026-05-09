@@ -66,6 +66,15 @@ I specialize in building scalable automation solutions, improving QA maturity, a
 
 [![Email](https://img.shields.io/badge/Email-tenneti.anand%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:tenneti.anand@gmail.com)
 
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AnandTenneti&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnandTenneti)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandTenneti&layout=compact)
+
 ---
 
 ⭐ *If you find my repositories helpful, feel free to star them!*  
