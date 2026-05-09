@@ -23,8 +23,8 @@ I specialize in building scalable automation solutions, improving QA maturity, a
 
 ![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
 
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+
+
 ![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge)
 
 ## Languages
@@ -39,8 +39,8 @@ I specialize in building scalable automation solutions, improving QA maturity, a
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF7139?style=for-the-badge&logo=browserstack&logoColor=white)
 
 ### **Automation Tools**
-- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) 
-- TestNG | Cucumber | Robot Framework  
+- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) | ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+- ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge) | Cucumber | Robot Framework  
 
 ### **API Testing**
 - REST Assured | Postman  
